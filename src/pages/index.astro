@@ -1,0 +1,10 @@
+---
+import Layout from '../layouts/Layout.astro';
+import MainFolder from '../components/Vue/MainFolder.vue';
+import UpdateJSON from '../components/Vue/UpdateJSON.vue';
+---
+
+<Layout title="Welcome to Astro.">
+	<MainFolder client:load></MainFolder>
+	<UpdateJSON client:load></UpdateJSON>
+</Layout>

@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Desktop",
+        "files": []
+    },
+    {
+        "name": "Images",
+        "files": []
+    },
+    {
+        "name": "Music",
+        "files": [
+            {"name": "Fun Song.mp3"}
+        ]
+    },
+    {
+        "name": "Videos",
+        "files": [
+            {
+                "name": "UFPSO Ad Loop.mp4"
+            },
+            {
+                "name": "Graduation",
+                "files" : [
+                    {"name": "UFPSO 2024.mp4"},
+                    {"name": "UFPSO 2023.mp4"},
+                    {"name": "UFPSO 2022.mp4"},
+                    {
+                        "name": "Tests",
+                        "files": [
+                            {"name": "Test1.mp4"},
+                            {"name": "Test2.mp4"},
+                            {"name": "Test3.mp4"},
+                            {"name": "2020",
+                                "files": [
+                                    {"name": "2020.mp4"}
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
